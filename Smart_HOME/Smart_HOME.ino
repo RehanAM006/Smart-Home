@@ -1,5 +1,5 @@
 // IDs
-#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_ID "" //get from Blynk App
 #define BLYNK_TEMPLATE_NAME "Smart Home"
 
 char auth[] = "";  // Enter your Blynk Auth token
